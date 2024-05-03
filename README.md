@@ -18,17 +18,17 @@ This is a simple TODO tasks application built with React. Users can add, edit, a
 
 ## How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/ProgrammerDATCH/TodoReactApp
-2. Install dependencies:
-```bash
-cd TodoReactApp
-npm install
-```
-3. Start the development server:
-```bash
-npm run dev
+    1. Clone the repository:
+    ```bash
+    git clone https://github.com/ProgrammerDATCH/TodoReactApp
+    2. Install dependencies:
+    ```bash
+    cd TodoReactApp
+    npm install
+    ```
+    3. Start the development server:
+    ```bash
+    npm run dev
     ```
 Open your browser and navigate to http://localhost:5173 to view the app.
 
