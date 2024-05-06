@@ -6,7 +6,7 @@ body {
     padding: 20px;
   }
   
-  .container {
+  .containers {
     max-width: 400px;
     margin: 0 auto;
     background-color: white;
@@ -22,14 +22,14 @@ body {
     margin-bottom: 15px;
   }
   
-  input {
+  .inputs {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
   }
   
-  button {
+  .btns {
     width: 100%;
     padding: 10px;
     background-color: #007bff;
@@ -39,7 +39,7 @@ body {
     cursor: pointer;
   }
   
-  button:hover {
+  .btns:hover {
     background-color: #0056b3;
   }
   

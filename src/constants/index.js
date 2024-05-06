@@ -7,4 +7,7 @@ const allTodos = [
     }
 ]
 
-export { allTodos }
+
+const serverLink = "http://localhost:9090/api";
+
+export { allTodos, serverLink }
